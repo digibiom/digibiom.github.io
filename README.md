@@ -1,4 +1,4 @@
-The website is based on the [Creative theme](http://startbootstrap.com/template-overviews/creative/).
+The website is based on the [Creative theme](http://startbootstrap.com/template-overviews/creative/) and is forked from [Ubicomp-mental-health workshop](https://ubicomp-mental-health.github.io/).
 
 The header image is from [Pexels under CC0 license](https://www.pexels.com/photo/boy-man-person-typing-48017/).
 ## Copyright and License
