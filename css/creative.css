@@ -406,3 +406,8 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.tpc ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
